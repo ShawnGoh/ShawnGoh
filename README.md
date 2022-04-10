@@ -19,7 +19,8 @@
 
 ## **Languages and tools that I use**
 
-[<img alt="Golang" width="55px" src="./Icons/go.svg"/>][java] [<img alt="Java" width="55px" src="./Icons/java.png"/>][java] [<img alt="Python" width="55px" src="./Icons/python.png" style="color:white;font:bold;" />][python]
+
+<img alt="Java" width="55px" src="./Icons/java.png"/><img alt="Python" width="55px" src="./Icons/python.png" style="color:white;font:bold;" /><img alt="Kotlin" width="55px" src="./Icons/kotlin.svg"/><img alt="Golang" width="55px" src="./Icons/go.svg"/> <img alt="Android" width="55px" src="./Icons/android.png"/><img alt="JS" width="55px" src="./Icons/javascript.svg"/><img alt="postgresql" width="55px" src="./Icons/postgresql.png"/><img alt="Firebase" width="55px" src="./Icons/firebase.svg"/><img alt="Git" width="55px" src="./Icons/git.svg"/><img alt="Heroku" width="55px" src="./Icons/heroku.svg"/><img alt="Postman" width="55px" src="./Icons/postman.svg"/>
 
 
 
@@ -38,8 +39,7 @@
 
 
 
-[python]: https://www.python.org/
-[java]: https://www.java.com/en/
+
 <!--
 **ShawnGoh/ShawnGoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
