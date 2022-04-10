@@ -1,4 +1,16 @@
-### Hi there 👋
+<h2 align=center> Hi there 👋, I'm Shawn </h2>
+
+
+<h3 align=center> A passionate computer science student with an interest in Java backend development</h3>
+
+---
+
+![Profile views](https://gpvc.arturio.dev/ShawnGoh)
+
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning ```golang```
+- 📫 How to reach me: shawngohsayshi@gmail.com
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnGoh)](https://github.com/anuraghazra/github-readme-stats)
 
