@@ -10,10 +10,7 @@
 
 ## **Get to know me**
 
-🔭 I’m currently working on personal projects
-
-
-🌱 I’m currently learning ```golang```
+🔭 I’m currently working @ DBS and doing my part time masters(MCOMP) @ NUS
 
 📫 How to reach me: shawngohsc@gmail.com
 
