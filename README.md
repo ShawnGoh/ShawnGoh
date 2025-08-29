@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning ```golang```
 
-📫 How to reach me: shawngohsayshi@gmail.com
+📫 How to reach me: shawngohsc@gmail.com
 
 ## **Languages and tools that I use**
 
